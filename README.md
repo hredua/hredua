@@ -10,7 +10,7 @@
   <img align="center" alt="hredua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="hredua-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="right" alt="hredua-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753315697312006241/910804687240974346/Webp.net-gifmaker.gif?width=676&height=676">
+  <img align="right" alt="hredua-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753315697312006241/910810602866356244/Webp.net-gifmaker_1.gif?width=676&height=676">
 </div>
   
   ##
