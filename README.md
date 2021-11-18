@@ -22,5 +22,4 @@
 
   
   ![Snake animation](https://github.com/hredua/hredua/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
